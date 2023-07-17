@@ -1,12 +1,12 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Wᴇʟᴄᴏᴍᴇ+Tᴏ+Pʀᴇᴍɪᴜᴍ+Fɪʟᴛᴇʀ+Bᴏᴛ+Rᴇᴘᴏ+!!!!!;Cʀᴇᴀᴛᴇᴅ+Bʏ+TᴀᴍɪʟᴀɴBᴏᴛsZ+Tᴇᴀᴍ+!!!!!;Mᴀᴅᴇ+Wɪᴛʜ+Tᴀᴍɪʟᴀɴ+Lᴏᴠᴇ+♥️+!!!!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Wᴇʟᴄᴏᴍᴇ+Tᴏ+Pʀᴇᴍɪᴜᴍ+Fɪʟᴛᴇʀ+Bᴏᴛ+Rᴇᴘᴏ+!!!!!;Cʀᴇᴀᴛᴇᴅ+Bʏ+MovieHub+Tᴇᴀᴍ+!!!!!;Mᴀᴅᴇ+Wɪᴛʜ+𝐀𝐉+𝐓𝐆+♥️+!!!!)</p>
 <p align="center">
   <img src="https://telegra.ph/file/76856c2c9da12621c29c9.jpg" alt="Awesome Filter Logo">
   </p>
   <h1 align="center">
     <b>Pʀᴇᴍɪᴜᴍ Fɪʟᴛᴇʀ Rᴇᴩᴏ</b>
     </h1>
-
-# 👩‍💻 Cᴏᴅᴇᴅᴇᴅ Bʏ TᴀᴍɪʟᴀɴBᴏᴛsZ
+ 
+# 👩‍💻 MOVIE HUB™
 
 🌟 <b>Fᴏʀᴋ & Sᴛᴀʀ Nᴏᴡ</b> 💥
 
@@ -152,7 +152,7 @@ link - 🖇️ ʟɪɴᴋ ᴛᴏ ᴘᴏsᴛ (ᴀᴅᴍɪɴ ᴏɴʟʏ)
 ```
 
 ## Cʀᴇᴅɪᴛs
-Rᴇᴘᴏ Oᴡɴᴇʀ/Cʀᴇᴀᴛᴏʀ *[![TᴀᴍɪʟᴀɴBᴏᴛsZ-Mᴇ](https://img.shields.io/static/v1?label=TamilanBotsZ&message=devs&color=critical)](https://telegram.dog/Tamilan_BotsZ)
+Rᴇᴘᴏ Oᴡɴᴇʀ/Cʀᴇᴀᴛᴏʀ *[![𝐀𝐉 𝐓𝐆-Mᴇ](https://img.shields.io/static/v1?label=TamilanBotsZ&message=devs&color=critical)](https://telegram.dog/at_xu_l07)
 
 ## Tʜᴀɴᴋs Tᴏ 
  <b>- Tʜᴀɴᴋs Tᴏ Mᴇ 🤩
