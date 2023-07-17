@@ -152,11 +152,11 @@ link - 🖇️ ʟɪɴᴋ ᴛᴏ ᴘᴏsᴛ (ᴀᴅᴍɪɴ ᴏɴʟʏ)
 ```
 
 ## Cʀᴇᴅɪᴛs
-Rᴇᴘᴏ Oᴡɴᴇʀ/Cʀᴇᴀᴛᴏʀ *[![𝐀𝐉 𝐓𝐆-Mᴇ](https://img.shields.io/static/v1?label=TamilanBotsZ&message=devs&color=critical)](https://telegram.dog/at_xu_l07)
+Rᴇᴘᴏ Oᴡɴᴇʀ/Cʀᴇᴀᴛᴏʀ *[![𝐀𝐉 𝐓𝐆-Mᴇ](https://img.shields.io/static/v1?label=MᴏᴠɪᴇHᴜʙ&message=devs&color=critical)](https://telegram.dog/at_xu_l07)
 
 ## Tʜᴀɴᴋs Tᴏ 
  <b>- Tʜᴀɴᴋs Tᴏ Mᴇ 🤩
- - Tʜᴀɴᴋs Tᴏ Eᴠᴀ Mᴀʀɪᴇ Tᴇᴀᴍ❣️
+ - Tʜᴀɴᴋs Tᴏ ᴅᴇᴠ❣️
  - Tʜᴀɴᴋs Tᴏ Oᴜʀ Usᴇʀs </b>😇
 
 ## Dɪsᴄʟᴀᴍɪɴᴇʀ
