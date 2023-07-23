@@ -1,22 +1,22 @@
 class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ {}</b>
     
-<b>Sᴏʀʀʏ ɪ ᴏɴʟʏ ᴡᴏʀᴋ ᴏɴ</b> <b><a href=https://t.me/mallumovies_1>𝐌_𝐌𝐎𝐕𝐈𝐄𝐒 𝐆𝐑𝐎𝐔𝐏</a></b><b> Gʀᴏᴜᴘ. Nᴏ ᴏᴛʜᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴡɪʟʟ ᴡᴏʀᴋ ᴏɴ ᴛʜɪs ʙᴏᴛ ᴇxᴄᴇᴘᴛ sᴛᴀʀᴛ. ᴅᴏɴ’ᴛ ᴡᴀsᴛᴇ ʏᴏᴜʀ ᴛɪᴍᴇ</b>"""
+<b>Sᴏʀʀʏ ɪ ᴏɴʟʏ ᴡᴏʀᴋ ᴏɴ</b> <b><a href=https://t.me/moviehub_support>ᴍᴏᴠɪᴇʜᴜʙ</a></b><b> Gʀᴏᴜᴘ. Nᴏ ᴏᴛʜᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴡɪʟʟ ᴡᴏʀᴋ ᴏɴ ᴛʜɪs ʙᴏᴛ ᴇxᴄᴇᴘᴛ sᴛᴀʀᴛ. ᴅᴏɴ’ᴛ ᴡᴀsᴛᴇ ʏᴏᴜʀ ᴛɪᴍᴇ</b>"""
     OWNER_TXT = """<b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟</b>
     
-<b>• ꜰᴜʟʟ ɴᴀᴍᴇ : мαℓαуαℓι</b>
-<b>• Uꜱᴇʀ ɴᴀᴍᴇ : @@Malayali_No2
-• Usᴇʀ ɪᴅ :</b> <code>5325244655</code>
+<b>• ꜰᴜʟʟ ɴᴀᴍᴇ : 𝐀𝐉 𝐓𝐆</b>
+<b>• Uꜱᴇʀ ɴᴀᴍᴇ : @at_xu_l07
+• Usᴇʀ ɪᴅ :</b> <code>5431311680</code>
+<b>• ιηѕтαgяαм :</b> <b><a href=https://instagram.com/_athul_dx_?igshid=NGExMmI2YTkyZg==>ℓιηк</a></b>
     
 <b>∂σи'т вє αfяαι∂ σf вєιиg ∂ιffєяєит, вє αfяαι∂ σf вєιиg тнє ѕαмє αѕ єνєяуσиє єℓѕє</b>
     """
 
     ABOUT_TXT = """<b>৫ αвσυт ∂єν ৫</b>
 
-<b>• ηαмє : ᴀᴊ ᴛɢ
-• υѕєя ηαмє : @at_xu_l07
+<b>• ηαмє : ɢᴛ ʜᴇʀᴏ
+• υѕєя ηαмє : @GThero
 • υѕєя ι∂ :</b> <code>5431311680</code>
-<b>• ιηѕтαgяαм :</b> <b><a href=https://instagram.com/_athul_dx_?igshid=NGExMmI2YTkyZg==>ℓιηк</a></b>
   
 <b>∂σи'т вє αfяαι∂ σf вєιиg ∂ιffєяєит, вє αfяαι∂ σf вєιиg тнє ѕαмє αѕ єνєяуσиє єℓѕє</b>
     """
@@ -40,13 +40,13 @@ class script(object):
     
     PONG_TXT = """Cʜᴇᴄᴋ Mʏ Pɪɴɢ Bʏ Cʟɪᴄᴋɪɴɢ 👉 /ping"""
 
-    SOURCES_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @M_MOVIES_24
+    SOURCES_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @moviehub_2k24
 
 - 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/at_xu_l07>ᴀᴊ</a>
 
 - & Rᴇᴩᴏ Lɪɴᴋ 👇 Hᴇʀᴇ"""
 
-    SOURCE_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @M_MOVIES_24</b>
+    SOURCE_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @moviehub_2k24</b>
 
 - 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/at_xu_l07>ᴀᴊ ᴛɢ</a></b>
 
@@ -78,7 +78,7 @@ class script(object):
 
     MANUELFILTER_TXT = """<b>Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ Mᴏᴠɪᴇs / Sᴇʀɪᴇs Usɪɴɢ Tʜɪs Bᴏᴛ</b> 😌 🔋
 
-<b>Fɪʀsᴛ Jᴏɪɴ Tʜɪs Gʀᴏᴜᴩ » @mallumovies_1</b>
+<b>Fɪʀsᴛ Jᴏɪɴ Tʜɪs Gʀᴏᴜᴩ » @moviehub_2k24</b>
 
 <b>Sᴇɴᴅ Yᴏᴜ Wᴀɴᴛ Mᴏᴠɪᴇs Oʀ Sᴇʀɪᴇs Nᴀᴍᴇ Wɪᴛʜ Cᴏʀʀᴇᴄᴛ Sᴩᴇʟʟɪɴɢ</b>
 
@@ -99,10 +99,12 @@ class script(object):
 👥 ɢʀᴏᴜᴘ 👥 = {}(<code>{}</code>)
 😇 ᴛᴏᴛᴀʟ ᴍᴇᴍʙᴇʀs 😇 = <code>{}</code>
 💌 ᴀᴅᴅᴇᴅ ʙʏ 💌 - {} </b>
+ʙy ᴍᴏᴠɪᴇʜᴜʙ™
 """
     LOG_TEXT_P = """<b> #NewUser
 ɪᴅ ♥️- <code>{}</code>
 ɴᴀᴍᴇ 💥- {} </b>
+ʙy ᴍᴏᴠɪᴇʜᴜʙ™
 """
     SPELL_CHECK_ENG = """<i>Click on the button labeled Google, find the correct movie name and enter it here. But the movie / Tv. Web Series will get ..
     
